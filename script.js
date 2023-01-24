@@ -74,7 +74,7 @@ function deleteNote ( index )
   showNotes();
 }
 
-/*
+
 let search = document.getElementById( 'searchTxt' );
 search.addEventListener( "input", function ()
 {
@@ -96,7 +96,7 @@ search.addEventListener( "input", function ()
     // console.log(cardTxt);
   } )
 } )
-*/
+
 /*
 Further Features:
 1. Add Title
